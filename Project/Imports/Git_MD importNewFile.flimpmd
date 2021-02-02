@@ -1,31 +1,74 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MarkdownImport LastImport="2021-02-02T09:04:27.7747271-08:00">
-    <Files>
-        <Url Source="../../../../../Desktop/MarkDown Files/code spans.md" AbsoluteSource="file:///C:/Users/dspencer/Desktop/MarkDown Files/code spans.md" />
-        <Url Source="../../../../../Desktop/MarkDown Files/definition list.md" AbsoluteSource="file:///C:/Users/dspencer/Desktop/MarkDown Files/definition list.md" />
-    </Files>
-    <ExcludedFiles />
-    <CollectedSourceFiles />
-    <SkippedSourceFiles />
-    <GeneratedFiles>
-        <Url Source="../../Content/Code Spans.htm" TimeStamp="2/2/2021 9:04:25 AM" />
-        <Url Source="../TOCs/Git_MD importNewFile.fltoc" TimeStamp="2/2/2021 9:04:25 AM" />
-        <Url Source="../../Content/Resources/Stylesheets/Git_MD importNewFile.css" TimeStamp="2/2/2021 9:04:25 AM" />
-    </GeneratedFiles>
-    <ParagraphStyles>
-        <Map From="blockquote" To="blockquote" Style="Flare" />
-        <Map From="h1" To="h1" Style="Flare" />
-        <Map From="h2" To="h2" Style="Flare" />
-        <Map From="h3" To="h3" Style="Flare" />
-        <Map From="h4" To="h4" Style="Flare" />
-        <Map From="h5" To="h5" Style="Flare" />
-        <Map From="h6" To="h6" Style="Flare" />
-        <Map From="MadCap:equation" To="MadCap:equation" Style="Flare" />
-        <Map From="p" To="p" Style="Flare" />
-        <Map From="pre" To="pre" Style="Flare" />
-    </ParagraphStyles>
-    <CharacterStyles />
-    <NewTopicStyles>
-        <StyleName Name="h1" />
-    </NewTopicStyles>
+<MarkdownImport
+  LastImport="2021-02-02T09:04:27.7747271-08:00"
+  fileTags="File Tags/FileTagSetAuthor.Author2">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/MarkDown Files/code spans.md"
+      AbsoluteSource="file:///C:/Users/dspencer/Desktop/MarkDown Files/code spans.md" />
+    <Url
+      Source="../../../../../Desktop/MarkDown Files/definition list.md"
+      AbsoluteSource="file:///C:/Users/dspencer/Desktop/MarkDown Files/definition list.md" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Code Spans.htm"
+      TimeStamp="2/2/2021 9:04:25 AM" />
+    <Url
+      Source="../TOCs/Git_MD importNewFile.fltoc"
+      TimeStamp="2/2/2021 9:04:25 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Git_MD importNewFile.css"
+      TimeStamp="2/2/2021 9:04:25 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="blockquote"
+      To="blockquote"
+      Style="Flare" />
+    <Map
+      From="h1"
+      To="h1"
+      Style="Flare" />
+    <Map
+      From="h2"
+      To="h2"
+      Style="Flare" />
+    <Map
+      From="h3"
+      To="h3"
+      Style="Flare" />
+    <Map
+      From="h4"
+      To="h4"
+      Style="Flare" />
+    <Map
+      From="h5"
+      To="h5"
+      Style="Flare" />
+    <Map
+      From="h6"
+      To="h6"
+      Style="Flare" />
+    <Map
+      From="MadCap:equation"
+      To="MadCap:equation"
+      Style="Flare" />
+    <Map
+      From="p"
+      To="p"
+      Style="Flare" />
+    <Map
+      From="pre"
+      To="pre"
+      Style="Flare" />
+  </ParagraphStyles>
+  <CharacterStyles />
+  <NewTopicStyles>
+    <StyleName
+      Name="h1" />
+  </NewTopicStyles>
 </MarkdownImport>
