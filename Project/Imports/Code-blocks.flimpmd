@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MarkdownImport
+  ImportFolder=""
+  LastImport="2021-02-02T09:05:27.0808342-08:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/MarkDown Files/Code-blocks.md"
+      AbsoluteSource="file:///C:/Users/dspencer/Desktop/MarkDown Files/Code-blocks.md" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Javascript Code.htm"
+      TimeStamp="2/2/2021 9:05:23 AM" />
+    <Url
+      Source="../TOCs/Code-blocks.fltoc"
+      TimeStamp="2/2/2021 9:05:23 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Code-blocks.css"
+      TimeStamp="2/2/2021 9:05:23 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="blockquote"
+      To="blockquote"
+      Style="Flare" />
+    <Map
+      From="h1"
+      To="h1"
+      Style="Flare" />
+    <Map
+      From="h2"
+      To="h2"
+      Style="Flare" />
+    <Map
+      From="h3"
+      To="h3"
+      Style="Flare" />
+    <Map
+      From="h4"
+      To="h4"
+      Style="Flare" />
+    <Map
+      From="h5"
+      To="h5"
+      Style="Flare" />
+    <Map
+      From="h6"
+      To="h6"
+      Style="Flare" />
+    <Map
+      From="MadCap:equation"
+      To="MadCap:equation"
+      Style="Flare" />
+    <Map
+      From="p"
+      To="p"
+      Style="Flare" />
+    <Map
+      From="pre"
+      To="MadCap:codeSnippet"
+      Style="Flare" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="a"
+      To="a"
+      Style="Flare" />
+    <Map
+      From="code"
+      To="code"
+      Style="Flare" />
+    <Map
+      From="em"
+      To="em"
+      Style="Flare" />
+    <Map
+      From="MadCap:equation"
+      To="MadCap:equation"
+      Style="Flare" />
+    <Map
+      From="strong"
+      To="strong"
+      Style="Flare" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="h1" />
+  </NewTopicStyles>
+</MarkdownImport>
